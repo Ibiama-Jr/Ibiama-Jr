@@ -18,7 +18,7 @@ I enjoy building practical cybersecurity projects that demonstrate real-world sk
 | Log Analysis | Analyzed IIS and windows event logs to identify attacks | Coming Soon |
 | Malware Analysis | | Coming Soon |
 | Digital Forensics | | Coming Soon |
-| OSINT | Conducted an OSINT investigation on a target organization | Coming Soon |
+| OSINT | Conducted an OSINT investigation on a target organization | https://github.com/Ibiama-Jr/osint_project/edit/main/README.md |
 | Threat Hunting | | Coming Soon|
 
 
