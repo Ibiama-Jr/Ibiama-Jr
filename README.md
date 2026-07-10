@@ -14,12 +14,12 @@ I enjoy building practical cybersecurity projects that demonstrate real-world sk
 
 | Project | Description | Repository |
 |---------|-------------|------------|
-| Penetration testing |--------| Coming Soon|
-| Log Analysis |--------| Coming Soon |
-| Malware Analysis |---------| Coming Soon |
-| Digital Forensics |--------| Coming Soon |
-| OSINT |--------| Coming Soon |
-| Threat Hunting |--------| Coming Soon|
+| Penetration testing | | Coming Soon|
+| Log Analysis | Analyzed IIS and windows event logs to identify attacks | Coming Soon |
+| Malware Analysis | | Coming Soon |
+| Digital Forensics | | Coming Soon |
+| OSINT | Conducted an OSINT investigation on a target organization | Coming Soon |
+| Threat Hunting | | Coming Soon|
 
 
 ## Skills
